@@ -1,0 +1,14 @@
+com\hukr\shopping\servlets\ResisterServlet.class
+com\hukr\shopping\entities\Product.class
+com\hukr\shopping\entities\User.class
+com\hukr\shopping\servlets\LoginServlet.class
+com\hukr\shopping\servlets\ProductOperationServlet.class
+com\hukr\shopping\dao\UserDao.class
+com\hukr\shopping\dao\CategoryDao.class
+com\hukr\shopping\resources\JakartaEE8Resource.class
+com\hukr\shopping\entities\Category.class
+com\hukr\shopping\helper\Helper.class
+com\hukr\shopping\servlets\LogoutServlet.class
+com\hukr\shopping\helper\FactoryProvider.class
+com\hukr\shopping\dao\ProductDao.class
+com\hukr\shopping\JakartaRestConfiguration.class
